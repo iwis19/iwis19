@@ -4,7 +4,7 @@ my name is Ronnie, and
 
 i'm currently:
 - working on a cool spring boot project
-- small rag thing
+- small rag thing in python & flask & ollama
 - grinding leetcodes (trees & recursion / backtracking for now)
 
 i'm gonna:
