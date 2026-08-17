@@ -1,14 +1,17 @@
-## hallo &nbsp;&nbsp;&nbsp; <img src="ezgif-87d65a4379aed261.gif" width="150"/>
+## hi, my name is Ronnie!
 
-my name is Ronnie, and 
+currently, i'm:
+- improving the ios banking app for 8m+ users @ [RBC](https://www.rbc.com/about-rbc.html) as a highschooler
+- grinding leetcodes (backtracking, neetcode 150s)
+- building on a rag pipeline in python & flask with hybrid search, evals, etc
 
-i'm currently:
-- working on a cool spring boot project
-- small rag thing in python & flask & ollama
-- grinding leetcodes (trees & recursion / backtracking for now)
+previously, i've:
+- built Tempo through my co-op @ [Career Education Council](https://www.careereducationcouncil.ca/)
+- qualified for the 2026 [canadian mathematical olympiad](https://cms.math.ca/competitions/cmo/)
+- won 2 hackathons: [NRGHacks](https://www.nrghacks.ca/) & [YRHacks](https://www.instagram.com/yrhacks/)
+- done a bunch of competitive programming
 
-i'm gonna:
-- work at rbc embark this summer :)
+#### reach out and connect with me! [<samp>email</samp>](mailto:ronniegu2019@gmail.com) - [<samp>instagram</samp>](https://www.instagram.com/jh.gu_/) - [<samp>linkedin</samp>](https://www.linkedin.com/in/ronnie-gu/)
 
 <!--
 **Iwis19/Iwis19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
