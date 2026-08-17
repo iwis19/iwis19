@@ -11,8 +11,15 @@ previously, i've:
 - won 2 hackathons: [NRGHacks](https://www.nrghacks.ca/) & [YRHacks](https://www.instagram.com/yrhacks/)
 - done a bunch of competitive programming: ccc, usaco, etc
 
-#### reach out and connect with me!!! 
-[<samp>email</samp>](mailto:ronniegu2019@gmail.com) - [<samp>instagram</samp>](https://www.instagram.com/jh.gu_/) - [<samp>linkedin</samp>](https://www.linkedin.com/in/ronnie-gu/)
+#### reach out and connect with me! 
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=iwis19.visitor-badge&left_text=travellers&left_color=%23363437&right_color=%23363437&radius=8" align= "right" alt="visitor badge"/>
+
+[<samp>email</samp>](mailto:ronniegu2019@gmail.com) - [<samp>instagram</samp>](https://www.instagram.com/jh.gu_/) - [<samp>linkedin</samp>](https://www.linkedin.com/in/ronnie-gu/)  
+
+
+
+<!-- reminder: ctrl k + v to open md preview>
 
 <!--
 **Iwis19/Iwis19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
