@@ -1,7 +1,7 @@
 ## hi, my name is Ronnie! &nbsp; <img src="waving-hand-cropped.gif" width=150>
 
 currently, i'm:
-- improving the ios [banking app](https://apps.apple.com/ca/app/rbc-mobile/id407597290) for 8m+ users @ [RBC](https://www.rbc.com/about-rbc.html) as a highschooler
+- improving the ios [banking app](https://apps.apple.com/ca/app/rbc-mobile/id407597290) for 8M+ users @ [RBC](https://www.rbc.com/about-rbc.html) as a highschooler
 - grinding [leetcodes](https://github.com/Iwis19/leetcodegrinder), current topics: backtracking, neetcode 150s
 - building on a rag pipeline in python & flask with hybrid search, evals, etc
 
