@@ -1,15 +1,14 @@
 ## hi, my name is Ronnie! &nbsp; <img src="waving-hand-cropped.gif" width=150>
 
 currently, i'm:
-- improving the iOS [banking app](https://apps.apple.com/ca/app/rbc-mobile/id407597290) for 8M+ users @ [RBC](https://www.rbc.com/about-rbc.html) as a highschooler
 - grinding [leetcodes](https://github.com/Iwis19/leetcodegrinder), current topics: backtracking, neetcode 150s
 - building on a RAG pipeline in Python & Flask with hybrid search, evals, etc
 
 previously, i've:
+- improved the iOS [banking app](https://apps.apple.com/ca/app/rbc-mobile/id407597290) for 8M+ users @ [RBC](https://www.rbc.com/about-rbc.html) as a highschooler
 - built Tempo through my co-op @ [Career Education Council](https://www.careereducationcouncil.ca/)
-- qualified for the 2026 Canadian Mathematical Olympiad
+- done some competitive math + programming: 2026 Canadian Mathematical Olympiad, AIME, USACO, & more
 - won 2 hackathons: [NRGHacks](https://www.nrghacks.ca/) & [YRHacks](https://www.instagram.com/yrhacks/)
-- done some competitive programming: CCC, USACO, etc
 
 #### reach out and connect with me! 
 
