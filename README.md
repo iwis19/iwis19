@@ -6,7 +6,7 @@ currently, i'm:
 
 previously, i've:
 - improved the iOS [banking app](https://apps.apple.com/ca/app/rbc-mobile/id407597290) for 8M+ users @ [RBC](https://www.rbc.com/about-rbc.html) as a highschooler
-- built Tempo through my co-op @ [Career Education Council](https://www.careereducationcouncil.ca/)
+- built Tempo, a finance related productivity tool
 - done some competitive math + programming: 2026 Canadian Mathematical Olympiad, AIME, USACO, & more
 - won 2 hackathons: [NRGHacks](https://www.nrghacks.ca/) & [YRHacks](https://www.instagram.com/yrhacks/)
 
