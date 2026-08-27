@@ -2,7 +2,7 @@
 
 currently, i'm:
 - grinding [leetcodes](https://github.com/Iwis19/leetcodegrinder), current topics: backtracking, neetcode 150s
-- building on a RAG pipeline in Python & Flask with hybrid search, evals, etc
+- building a vscode extension for a git tool
 
 previously, i've:
 - improved the iOS [banking app](https://apps.apple.com/ca/app/rbc-mobile/id407597290) for 8M+ users @ [RBC](https://www.rbc.com/about-rbc.html) as a highschooler
