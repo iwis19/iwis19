@@ -1,14 +1,15 @@
 ## hi, my name is Ronnie! &nbsp; <img src="waving-hand-cropped.gif" width=150>
 
 currently, i'm:
-- grinding [leetcodes](https://github.com/Iwis19/leetcodegrinder), current topics: backtracking, neetcode 150s
-- building a vscode extension for a git tool
+- working on research about information retrieval @ [Data Systems Group](https://uwaterloo.ca/data-systems-group/)
+- [leetcoding](https://github.com/Iwis19/leetcodegrinder), current topics: backtracking, neetcode 150s
+- building a vscode extension tool for git workflows
 
 previously, i've:
 - improved the iOS [banking app](https://apps.apple.com/ca/app/rbc-mobile/id407597290) for 8M+ users @ [RBC](https://www.rbc.com/about-rbc.html) as a highschooler
 - built Tempo, a finance related productivity tool
-- done some competitive math + programming: 2026 Canadian Mathematical Olympiad, AIME, USACO, & more
-- won 2 hackathons: [NRGHacks](https://www.nrghacks.ca/) & [YRHacks](https://www.instagram.com/yrhacks/)
+- done competitive math & programming: Canadian Mathematical Olympiad, AIME, etc
+- won 2 hackathons
 
 #### reach out and connect with me! 
 
