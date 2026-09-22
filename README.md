@@ -8,8 +8,7 @@ currently, i'm:
 previously, i've:
 - improved the iOS [banking app](https://apps.apple.com/ca/app/rbc-mobile/id407597290) for 8M+ users @ [RBC](https://www.rbc.com/about-rbc.html) as a highschooler
 - built Tempo, a finance related productivity tool
-- done competitive math & programming: Canadian Mathematical Olympiad, AIME, etc
-- won 2 hackathons
+- won 3x hackathons, including [Hack the North](https://devpost.com/software/rbc-buddies?ref_content=user-portfolio&ref_feature=in_progress)
 
 #### reach out and connect with me! 
 
