@@ -10,7 +10,7 @@ previously, i've:
 - made [mobile banking](https://apps.apple.com/ca/app/rbc-mobile/id407597290) simpler for 8M users @ [RBC](https://www.rbc.com/about-rbc.html)
 - won 3x hackathons, including [Hack the North](https://devpost.com/software/rbc-buddies?ref_content=user-portfolio&ref_feature=in_progress)
 
-#### reach out and connect with me! 
+**reach out and connect with me!**
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=iwis19.visitor-badge&left_text=travellers&left_color=%23363437&right_color=%23363437&radius=8" align= "right" alt="visitor badge"/>
 
