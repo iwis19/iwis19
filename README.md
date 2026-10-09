@@ -1,9 +1,9 @@
 ## hi, my name is Ronnie! &nbsp; <img src="waving-hand-cropped.gif" width=150>
 
 currently, i'm:
-- a bit of information retrieval @ [Data Systems Group](https://uwaterloo.ca/data-systems-group/)
-- learning + contributing to cloud services @ [WATonomous](https://cloud.watonomous.ca/)
-- leetcoding; current topics: backtracking, bitwise ops
+- helping out + learning info retrieval @ [Data Systems Group](https://uwaterloo.ca/data-systems-group/)
+- contributing to cloud services @ [WATonomous](https://cloud.watonomous.ca/)
+- leetcoding; current topics: dp, bitwise ops
 - building a vscode extension tool for git workflows
 
 previously, i've:
