@@ -1,14 +1,15 @@
 ## hi, my name is Ronnie! &nbsp; <img src="waving-hand-cropped.gif" width=150>
 
 currently, i'm:
-- helping out + learning info retrieval @ [Data Systems Group](https://uwaterloo.ca/data-systems-group/)
-- contributing to cloud services @ [WATonomous](https://cloud.watonomous.ca/)
+- contributing to + learning info retrieval @ [Data Systems Group](https://uwaterloo.ca/data-systems-group/)
+- working on cloud services @ [WATonomous](https://cloud.watonomous.ca/)
 - leetcoding; current topics: dp, bitwise ops
 - building a vscode extension tool for git workflows
 
 previously, i've:
 - made [mobile banking](https://apps.apple.com/ca/app/rbc-mobile/id407597290) simpler for 8M users @ [RBC](https://www.rbc.com/about-rbc.html)
-- won 3x hackathons, including [Hack the North](https://devpost.com/software/rbc-buddies?ref_content=user-portfolio&ref_feature=in_progress)
+- won 3× hackathons, including [Hack the North](https://devpost.com/software/rbc-buddies?ref_content=user-portfolio&ref_feature=in_progress)
+- done math: [national olympiad](https://cms.math.ca/competitions/cmo/) qualifier + 5× [CEMC](https://cemc.uwaterloo.ca/resources/past-contests) honor roll
 
 **reach out and connect with me!**
 
