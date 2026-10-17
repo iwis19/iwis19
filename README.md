@@ -7,9 +7,9 @@ currently, i'm:
 - building a vscode extension tool for git workflows
 
 previously, i've:
-- made [mobile banking](https://apps.apple.com/ca/app/rbc-mobile/id407597290) simpler for 8M users @ [RBC](https://www.rbc.com/about-rbc.html)
+- made mobile banking simpler for 8M users @ [RBC](https://www.rbc.com/about-rbc.html)
 - won 3× hackathons, including [Hack the North](https://devpost.com/software/rbc-buddies?ref_content=user-portfolio&ref_feature=in_progress)
-- done math: [national olympiad](https://cms.math.ca/competitions/cmo/) qualifier + 5× [CEMC](https://cemc.uwaterloo.ca/resources/past-contests) honor roll
+- done some math: [national olympiad](https://cms.math.ca/competitions/cmo/) qualifier + 5× [CEMC](https://cemc.uwaterloo.ca/resources/past-contests) honor roll
 
 **reach out and connect with me!**
 
