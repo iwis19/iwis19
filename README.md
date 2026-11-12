@@ -11,7 +11,7 @@ previously, i've:
 - won 3× hackathons, including [Hack the North](https://devpost.com/software/rbc-buddies?ref_content=user-portfolio&ref_feature=in_progress)
 - done some math: [national olympiad](https://cms.math.ca/competitions/cmo/) qualifier + 5× [CEMC](https://cemc.uwaterloo.ca/resources/past-contests) honor roll
 
-**reach out and connect with me!**
+**always down to chat, reach out :)**
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=iwis19.visitor-badge&left_text=travellers&left_color=%23363437&right_color=%23363437&radius=8" align= "right" alt="visitor badge"/>
 
