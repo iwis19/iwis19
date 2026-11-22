@@ -3,11 +3,10 @@
 currently, i'm:
 - contributing to info retrieval oss @ [Data Systems Group](https://uwaterloo.ca/data-systems-group/)
 - working on cloud infra @ [WATonomous](https://cloud.watonomous.ca/)
-- building a vscode extension tool for git workflows
 
 previously, i've:
 - made mobile banking simpler for 8M+ @ [RBC](https://www.rbc.com/about-rbc.html)
-- won 3× hackathons, including [Hack the North](https://devpost.com/software/rbc-buddies?ref_content=user-portfolio&ref_feature=in_progress)
+- won at 4× hackathons
 - done some math: [national olympiad](https://cms.math.ca/competitions/cmo/) qualifier, 1× AIME, 5× [CEMC](https://cemc.uwaterloo.ca/resources/past-contests) honor roll
 
 **always down to chat, reach out :)**
